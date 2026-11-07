@@ -1,0 +1,7 @@
+.DS_Store
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+Telco-Customer-Churn.csv
+/telco_customer_churn_plani.md
